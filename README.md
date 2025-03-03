@@ -77,7 +77,9 @@ This project is one of my first learning experiences with APIs and C#, primarily
 ## Screenshots
 <img src="https://github.com/user-attachments/assets/a9ba56d1-58d6-4179-a749-4f6c1a4f4eb3" width="550">
 
+
 <img src="https://github.com/user-attachments/assets/8a8a6358-95d2-4246-bbda-a24437a73f20" width="550">
+
 
 <img src="https://github.com/user-attachments/assets/a6e80d21-3d69-47e6-8790-0b3b72272f23" width="550">
 
