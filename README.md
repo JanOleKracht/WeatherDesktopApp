@@ -48,7 +48,7 @@ This project is one of my first learning experiences with APIs and C#, primarily
 
 **1. Clone the repository:**
 
-- git clone https://github.com/YOUR_GITHUB_USERNAME/WeatherApp.git
+- git clone https://github.com/JanOleKracht/WeatherDesktopApp.git
   
 
 **2. Set up an OpenWeather API Key:**
