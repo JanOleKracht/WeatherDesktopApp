@@ -93,6 +93,15 @@ This project is one of my first learning experiences with APIs and C#, primarily
 
 - Allow users to choose between Celsius and Fahrenheit
 
+## Contributing
+This is a personal learning project, so contributions are not expected. However, if you have any feedback or suggestions, feel free to reach out.
+
+## License
+This project is licensed under the MIT License. You are free to use, modify, and distribute this project as long as you include the license and give credit to the original author.
+
+## Developer
+GitHub Username: JanOleKracht
+
 
 
 
